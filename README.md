@@ -4,13 +4,14 @@
 **Code:** [GitHub - Playlist API](https://github.com/melisademirbas/2PlaylistApi)
 
 ## Live Website
-**Live Demo:** http://localhost:5291 (This API runs locally using `dotnet run`)
+
+** Deployment : https://melisaplaylistapi-ekdkbeh2fmcvevba.switzerlandnorth-01.azurewebsites.net/swagger/index.html
 
 
 ## Design
 - Developed with **ASP.NET Core Web API**
 - Uses **Entity Framework Core In-Memory Database**
-- Configured Swagger to open directly on the root URL (`http://localhost:5291`)
+- Configured Swagger to open directly on the root URL 
 - Contains controller-based RESTful endpoints for playlists and songs.
 
 
