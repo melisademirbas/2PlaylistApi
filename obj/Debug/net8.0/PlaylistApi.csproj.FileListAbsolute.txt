@@ -1,0 +1,135 @@
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/appsettings.json
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/PlaylistApi
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/PlaylistApi.deps.json
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/PlaylistApi.runtimeconfig.json
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/PlaylistApi.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/PlaylistApi.pdb
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berildemirbas/PlaylistApi/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.csproj.AssemblyReference.cache
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.AssemblyInfoInputs.cache
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.AssemblyInfo.cs
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.csproj.CoreCompileInputs.cache
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PlaylistApi.props
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PlaylistApi.props
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PlaylistApi.props
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/scopedcss/bundle/PlaylistApi.styles.css
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/Playlist.0557A9F4.Up2Date
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.dll
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/refint/PlaylistApi.dll
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.pdb
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/PlaylistApi.genruntimeconfig.cache
+/Users/berildemirbas/PlaylistApi/obj/Debug/net8.0/ref/PlaylistApi.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/appsettings.Development.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/appsettings.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/PlaylistApi
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/PlaylistApi.deps.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/PlaylistApi.runtimeconfig.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/PlaylistApi.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/PlaylistApi.pdb
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.csproj.AssemblyReference.cache
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.AssemblyInfoInputs.cache
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.AssemblyInfo.cs
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.csproj.CoreCompileInputs.cache
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets.build.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets.development.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets/msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets/msbuild.build.PlaylistApi.props
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PlaylistApi.props
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PlaylistApi.props
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/scopedcss/bundle/PlaylistApi.styles.css
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/Playlist.0557A9F4.Up2Date
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/refint/PlaylistApi.dll
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.pdb
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/PlaylistApi.genruntimeconfig.cache
+/Users/berildemirbas/Desktop/PlaylistApi kopyası/obj/Debug/net8.0/ref/PlaylistApi.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/appsettings.json
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/PlaylistApi
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/PlaylistApi.deps.json
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/PlaylistApi.runtimeconfig.json
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/PlaylistApi.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/PlaylistApi.pdb
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.csproj.AssemblyReference.cache
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.AssemblyInfoInputs.cache
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.AssemblyInfo.cs
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.csproj.CoreCompileInputs.cache
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PlaylistApi.props
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PlaylistApi.props
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PlaylistApi.props
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/scopedcss/bundle/PlaylistApi.styles.css
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/Playlist.0557A9F4.Up2Date
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/refint/PlaylistApi.dll
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.pdb
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/PlaylistApi.genruntimeconfig.cache
+/Users/berildemirbas/Desktop/2PlaylistApi/obj/Debug/net8.0/ref/PlaylistApi.dll
