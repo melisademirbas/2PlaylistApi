@@ -5,7 +5,7 @@
 
 ## Live Website
 
-** Deployment : https://melisaplaylistapi-ekdkbeh2fmcvevba.switzerlandnorth-01.azurewebsites.net/swagger/index.html
+** Deployment : https://playlistapi-beril.azurewebsites.net/swagger/index.html  (hocam deneme yaparken çok fazla kendi adımı kullandım en son isim bulmaya çalışırken ablamın adını denedim o yüzden beril yazıyor haberiniz olsun , teşekkür ederim)
 
 
 ## Design
